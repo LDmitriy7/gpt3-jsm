@@ -37,7 +37,7 @@ const SideMenu = () => (
       <Menu/>
       <div className={styles.menu__sign}>
         <p>Sign in</p>
-        <button type='button'>Sign up</button>
+        <button type="button">Sign up</button>
       </div>
     </div>
   </div>

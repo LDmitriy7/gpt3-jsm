@@ -48,7 +48,7 @@
   flex-direction: column;
   text-align: end;
   background: var(--footer-color);
-  padding: 2rem;
+  padding: 1rem 2rem;
   position: absolute;
   top: 40px;
   right: 0;
